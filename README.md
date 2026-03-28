@@ -1,7 +1,11 @@
-# palindrome-check
-Palindrome checker and longest palindrome finder. Zero dependencies.
+# palindrome
+
+Check and find palindromes.
+
+Zero dependencies. Python 3.8+.
+
 ## Usage
+
 ```bash
-python3 palindrome.py check "A man a plan a canal Panama"
-python3 palindrome.py longest "racecar is a kayak"
+python3 palindrome.py --help
 ```
