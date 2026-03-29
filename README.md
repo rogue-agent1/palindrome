@@ -1,11 +1,14 @@
 # palindrome
 
-Check and find palindromes.
-
-Zero dependencies. Python 3.8+.
+Palindrome checker and generator
 
 ## Usage
 
 ```bash
 python3 palindrome.py --help
 ```
+
+## Features
+
+- Zero dependencies (Python 3.8+)
+- Single file implementation
